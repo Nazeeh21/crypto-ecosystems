@@ -114,6 +114,18 @@ url = "https://github.com/FuelLabs/intro-to-predicates"
 url = "https://github.com/FuelLabs/intro-to-sway"
 
 [[repo]]
+url = "https://github.com/FuelLabs/fuel-abi-types"
+
+[[repo]]
+url = "https://github.com/FuelLabs/sway-vscode-plugin"
+
+[[repo]]
+url = "https://github.com/FuelLabs/sway-by-example"
+
+[[repo]]
+url = "https://github.com/FuelLabs/fuel-subgraph"
+
+[[repo]]
 url = "https://github.com/0xproteus/Recursive-TicTacToe-Fuel"
 
 [[repo]]
