@@ -6,6 +6,113 @@ sub_ecosystems = []
 github_organizations = ["https://github.com/FuelLabs", "https://github.com/sway-libs"]
 
 # Repositories
+
+[[repo]]
+url = "https://github.com/FuelLabs/sway"
+
+
+[[repo]]
+url = "https://github.com/FuelLabs/sway-performance-data"
+
+[[repo]]
+url = "https://github.com/FuelLabs/fuels-ts"
+
+[[repo]]
+url = "https://github.com/FuelLabs/fuel-connectors"
+
+[[repo]]
+url = "https://github.com/FuelLabs/fuels-wallet"
+
+[[repo]]
+url = "https://github.com/FuelLabs/fuel-vm"
+
+[[repo]]
+url = "https://github.com/FuelLabs/fuel.nix"
+
+[[repo]]
+url = "https://github.com/FuelLabs/sway-nightly-binaries" \
+
+[[repo]]
+url = "https://github.com/FuelLabs/fuelup"
+
+[[repo]]
+url = "https://github.com/FuelLabs/fuel-explorer"
+
+[[repo]]
+url = "https://github.com/FuelLabs/docs-hub"
+
+[[repo]]
+url = "https://github.com/FuelLabs/fuels-npm-packs"
+
+[[repo]]
+url = "https://github.com/FuelLabs/fuels-rs"
+
+[[repo]]
+url = "https://github.com/FuelLabs/sway-by-example-lib"
+
+[[repo]]
+url = "https://github.com/FuelLabs/fuel-core"
+
+[[repo]]
+url = "https://github.com/FuelLabs/data-systems"
+
+[[repo]]
+url = "https://github.com/FuelLabs/fuel-k8s-operator"
+
+[[repo]]
+url = "https://github.com/FuelLabs/fuel-deployment-v2"
+
+[[repo]]
+url = "https://github.com/FuelLabs/sway-standards"
+
+[[repo]]
+url = "https://github.com/FuelLabs/sway-libs"
+
+[[repo]]
+url = "https://github.com/FuelLabs/sway-applications"
+
+[[repo]]
+url = "https://github.com/FuelLabs/fuel-bridge"
+
+[[repo]]
+url = "https://github.com/FuelLabs/fuel-specs"
+
+[[repo]]
+url = "https://github.com/FuelLabs/chain-configuration"
+
+[[repo]]
+url = "https://github.com/FuelLabs/fuel-utils"
+
+[[repo]]
+url = "https://github.com/FuelLabs/sway-farm"
+
+[[repo]]
+url = "https://github.com/FuelLabs/forc-wallet"
+
+[[repo]]
+url = "https://github.com/FuelLabs/sway-rfcs"
+
+[[repo]]
+url = "https://github.com/FuelLabs/fuel-ui"
+
+[[repo]]
+url = "https://github.com/FuelLabs/sway-playground"
+
+[[repo]]
+url = "https://github.com/FuelLabs/fuel-block-committer"
+
+[[repo]]
+url = "https://github.com/FuelLabs/fuel-graphql-docs"
+
+[[repo]]
+url = "https://github.com/FuelLabs/faucet"
+
+[[repo]]
+url = "https://github.com/FuelLabs/intro-to-predicates"
+
+[[repo]]
+url = "https://github.com/FuelLabs/intro-to-sway"
+
 [[repo]]
 url = "https://github.com/0xproteus/Recursive-TicTacToe-Fuel"
 
