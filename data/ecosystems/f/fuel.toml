@@ -8,6 +8,24 @@ github_organizations = ["https://github.com/FuelLabs", "https://github.com/sway-
 # Repositories
 
 [[repo]]
+url = "https://github.com/compolabs/src-20"
+
+[[repo]]
+url = "https://github.com/compolabs/orderbook-contract"
+
+[[repo]]
+url = "https://github.com/authentixFuel"
+
+[[repo]]
+url = "https://github.com/orao-network/fuel-vrf"
+
+[[repo]]
+url = "https://github.com/burralabs/ruscet-contracts"
+
+[[repo]]
+url = "https://github.com/kassiopeadev/kassiopea-site"
+
+[[repo]]
 url = "https://github.com/FuelLabs/sway"
 
 [[repo]]
