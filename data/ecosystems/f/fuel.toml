@@ -10,33 +10,8 @@ github_organizations = ["https://github.com/FuelLabs", "https://github.com/sway-
 [[repo]]
 url = "https://github.com/FuelLabs/sway"
 
-
-[[repo]]
-url = "https://github.com/FuelLabs/sway-performance-data"
-
-[[repo]]
-url = "https://github.com/FuelLabs/fuels-ts"
-
 [[repo]]
 url = "https://github.com/FuelLabs/fuel-connectors"
-
-[[repo]]
-url = "https://github.com/FuelLabs/fuels-wallet"
-
-[[repo]]
-url = "https://github.com/FuelLabs/fuel-vm"
-
-[[repo]]
-url = "https://github.com/FuelLabs/fuel.nix"
-
-[[repo]]
-url = "https://github.com/FuelLabs/sway-nightly-binaries" \
-
-[[repo]]
-url = "https://github.com/FuelLabs/fuelup"
-
-[[repo]]
-url = "https://github.com/FuelLabs/fuel-explorer"
 
 [[repo]]
 url = "https://github.com/FuelLabs/docs-hub"
@@ -46,12 +21,6 @@ url = "https://github.com/FuelLabs/fuels-npm-packs"
 
 [[repo]]
 url = "https://github.com/FuelLabs/fuels-rs"
-
-[[repo]]
-url = "https://github.com/FuelLabs/sway-by-example-lib"
-
-[[repo]]
-url = "https://github.com/FuelLabs/fuel-core"
 
 [[repo]]
 url = "https://github.com/FuelLabs/data-systems"
@@ -115,12 +84,6 @@ url = "https://github.com/FuelLabs/intro-to-sway"
 
 [[repo]]
 url = "https://github.com/FuelLabs/fuel-abi-types"
-
-[[repo]]
-url = "https://github.com/FuelLabs/sway-vscode-plugin"
-
-[[repo]]
-url = "https://github.com/FuelLabs/sway-by-example"
 
 [[repo]]
 url = "https://github.com/FuelLabs/fuel-subgraph"
@@ -406,9 +369,6 @@ url = "https://github.com/FuelLabs/doc-portal"
 url = "https://github.com/FuelLabs/docs"
 
 [[repo]]
-url = "https://github.com/FuelLabs/docs-hub"
-
-[[repo]]
 url = "https://github.com/FuelLabs/docs-portal"
 
 [[repo]]
@@ -424,22 +384,13 @@ url = "https://github.com/FuelLabs/etk"
 url = "https://github.com/FuelLabs/EVM-Wallet-Connector"
 
 [[repo]]
-url = "https://github.com/FuelLabs/faucet"
-
-[[repo]]
 url = "https://github.com/FuelLabs/forc-client"
 
 [[repo]]
 url = "https://github.com/FuelLabs/forc-explorer"
 
 [[repo]]
-url = "https://github.com/FuelLabs/forc-wallet"
-
-[[repo]]
 url = "https://github.com/FuelLabs/forum-notifier"
-
-[[repo]]
-url = "https://github.com/FuelLabs/fuel-abi-types"
 
 [[repo]]
 url = "https://github.com/FuelLabs/fuel-asm"
@@ -612,9 +563,6 @@ url = "https://github.com/FuelLabs/rfcs"
 
 [[repo]]
 url = "https://github.com/FuelLabs/smt-test-generation"
-
-[[repo]]
-url = "https://github.com/FuelLabs/sway"
 
 [[repo]]
 url = "https://github.com/FuelLabs/sway-applications"
